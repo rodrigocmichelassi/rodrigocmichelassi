@@ -2,8 +2,10 @@
 ## IME - Universidade de São Paulo
 
 <div align="left">
-    <p>🖥️ <b><i>Computer Science undergraduate student at University of São Paulo, BR</i></b></p>
-    <p>:clipboard: <b><i>Machine Learning researcher</i></b></p>
+    <p>:computer: <b><i>Computer Science undergraduate student at University of São Paulo, BR</i></b></p>
+    <p>:memo: <b><i>Machine Learning/Computer Vision researcher</i></b></p>
+    <p>:floppy_disk: <b><i>Software Engineer</i></b></p>
+    <p>:incoming_envelope: <b><i>Open Source contributor</i></b></p>
 </div>
 
 ## Research Projects
